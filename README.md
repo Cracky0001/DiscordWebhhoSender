@@ -1,17 +1,17 @@
 # Discord Webhook Sender
-Ein einfaches GUI-Programm, mit dem Sie Discord Webhooks versenden können.
+A simple GUI program for sending Discord Webhooks.
 
-## Funktionen
-- Eingabe der Webhook URL über ein Textfeld
-- Eingabe des Titels, der Beschreibung und der URL für das Embed über Textfelder
-- Automatische Erstellung von Embed-Timestamps
-- Senden des Webhooks und Anzeigen der Antwort des Discord-Servers als Popup-Meldung
-## Benutzung
-- Geben Sie die Webhook URL im Textfeld "Webhook URL" ein.
-- Geben Sie den Titel, die Beschreibung und die URL für das Embed in den entsprechenden Textfeldern ein.
-- Klicken Sie auf den Button "Senden", um das Webhook zu senden.
-- Die Antwort des Discord-Servers wird als Popup-Meldung angezeigt.
-## Hinweise
-- Stellen Sie sicher, dass Sie über eine gültige Webhook URL verfügen und dass Sie über die erforderlichen Berechtigungen für das Senden von Webhooks verfügen.
-- Das Embed-Farbschema wird als 32-Bit-ARGB-Wert (Alpha-Rot-Grün-Blau) angegeben. Der Wert 0 entspricht transparent, während der Wert 16777215 (0xFFFFFF) Weiß entspricht. (Funktion vorübergehend deaktiviert)
-- Der Timestamp wird im ISO-8601-Format erstellt und entspricht der aktuellen Uhrzeit auf dem System des Benutzers.
+## Features
+- Input of webhook URL through a textbox
+- Input of title, description, and URL for the embed through textboxes
+- Automatic creation of embed timestamps
+- Sending of the webhook and display of the Discord server's response as a pop-up message
+## Usage
+1. Input the webhook URL in the "Webhook URL" textbox.
+2. Input the title, description, and URL for the embed in the corresponding textboxes.
+3. Click the "Send" button to send the webhook.
+4. The Discord server's response will be displayed as a pop-up message.
+## Notes
+- Make sure you have a valid webhook URL and the required permissions for sending webhooks.
+-The embed color scheme is specified as a 32-bit ARGB value (alpha-red-green-blue). A value of 0 represents transparent, while a value of 16777215 (0xFFFFFF) represents white. (Funktion vorübergehend deaktiviert)
+- The timestamp is created in ISO-8601 format and represents the current time on the user's system.
