@@ -13,5 +13,5 @@ A simple GUI program for sending Discord Webhooks.
 4. The Discord server's response will be displayed as a pop-up message.
 ## Notes
 - Make sure you have a valid webhook URL and the required permissions for sending webhooks.
--The embed color scheme is specified as a 32-bit ARGB value (alpha-red-green-blue). A value of 0 represents transparent, while a value of 16777215 (0xFFFFFF) represents white. (Funktion vorübergehend deaktiviert)
+-The embed color scheme is specified as a 32-bit ARGB value (alpha-red-green-blue). A value of 0 represents transparent, while a value of 16777215 (0xFFFFFF) represents white. 
 - The timestamp is created in ISO-8601 format and represents the current time on the user's system.
