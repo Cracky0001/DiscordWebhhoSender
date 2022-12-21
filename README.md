@@ -13,5 +13,5 @@ Ein einfaches GUI-Programm, mit dem Sie Discord Webhooks versenden können.
 - Die Antwort des Discord-Servers wird als Popup-Meldung angezeigt.
 ## Hinweise
 - Stellen Sie sicher, dass Sie über eine gültige Webhook URL verfügen und dass Sie über die erforderlichen Berechtigungen für das Senden von Webhooks verfügen.
-- Das Embed-Farbschema wird als 32-Bit-ARGB-Wert (Alpha-Rot-Grün-Blau) angegeben. Der Wert 0 entspricht transparent, während der Wert 16777215 (0xFFFFFF) Weiß entspricht. (Funktion fvorübergehend deaktiviert)
+- Das Embed-Farbschema wird als 32-Bit-ARGB-Wert (Alpha-Rot-Grün-Blau) angegeben. Der Wert 0 entspricht transparent, während der Wert 16777215 (0xFFFFFF) Weiß entspricht. (Funktion vorübergehend deaktiviert)
 - Der Timestamp wird im ISO-8601-Format erstellt und entspricht der aktuellen Uhrzeit auf dem System des Benutzers.
